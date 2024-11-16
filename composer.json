@@ -1,0 +1,17 @@
+{
+    "name": "bangejak/antartika-absensi-composer",
+    "description": "Attendance system builded with PHP",
+    "authors": [
+        {
+            "name": "BangEjak04",
+            "email": "rezaandyahw@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "AMCC\\MVC\\": "src"
+        }
+    }
+}
